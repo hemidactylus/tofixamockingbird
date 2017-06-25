@@ -1,0 +1,9 @@
+site_name: To Fix a Mockingbird
+pages:
+  - Home: index.md
+  - Errata: fixes.md
+theme: readthedocs
+markdown_extensions:
+   - pymdownx.arithmatex
+extra_javascript:
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
