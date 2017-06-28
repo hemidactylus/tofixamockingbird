@@ -1,7 +1,29 @@
 site_name: To Fix a Mockingbird
 pages:
   - Home: index.md
-  - Errata: fixes.md
+  - Complete fix list: fixes.md
+  - Page 24: errata/page24.md
+  - Page 67: errata/page67.md
+  - Page 104: errata/page104.md
+  - Page 124: errata/page124.md
+  - Page 126: errata/page126.md
+  - Page 131: errata/page131.md
+  - Page 137: errata/page137.md
+  - Page 149: errata/page149.md
+  - Page 173: errata/page173.md
+  - Page 176: errata/page176.md
+  - Page 177: errata/page177.md
+  - Pages 178, 185: errata/page178.md
+  - Page 184: errata/page184.md
+  - Page 185: errata/page185.md
+  - Page 186: errata/page186.md
+  - Page 197 (I): errata/page197a.md
+  - Page 197 (II): errata/page197b.md
+  - Page 202 (I): errata/page202a.md
+  - Page 202 (II): errata/page202b.md
+  - Page 205: errata/page205.md
+  - Page 226 (I): errata/page226a.md
+  - Page 226 (II): errata/page226b.md
 theme: readthedocs
 markdown_extensions:
    - pymdownx.arithmatex
