@@ -24,6 +24,10 @@ pages:
   - Page 205: errata/page205.md
   - Page 226 (I): errata/page226a.md
   - Page 226 (II): errata/page226b.md
+  - Page 233: errata/page233.md
+  - Page 234: errata/page234.md
+  - Page 238: errata/page238.md
+  - Page 240: errata/page240.md
 theme: readthedocs
 markdown_extensions:
    - pymdownx.arithmatex

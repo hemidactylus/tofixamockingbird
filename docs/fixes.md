@@ -40,6 +40,14 @@
 
 ### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 205 (Ch. 22, sol. Prob. 10)](errata/page205.md)
 
-### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 226 (Ch. 24, sol. Probs. 6-7)](errata/page226a.md) (TODO)
+### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 226 (Ch. 24, sol. Probs. 6-7)](errata/page226a.md)
 
-### <img src="/pictures/correction_green.svg" width="32px"/> [Page 226 (Ch. 24, sol. Prob. 7)](errata/page226b.md) (TODO)
+### <img src="/pictures/correction_green.svg" width="32px"/> [Page 226 (Ch. 24, sol. Prob. 7)](errata/page226b.md)
+
+### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 233 (Ch. 25, Introduction)](errata/page233.md)
+
+### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 234 (Ch. 25, Prob. 2)](errata/page234.md)
+
+### <img src="/pictures/correction_green.svg" width="32px"/> [Page 238 (Ch. 25, sol. Prob. 2)](errata/page238.md)
+
+### <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 240 (Ch. 25, sol. Prob. 4)](errata/page240.md)

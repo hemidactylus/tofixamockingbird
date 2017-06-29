@@ -10,7 +10,7 @@ notational inconsistencies, and so on.
 
 A few times, stumbling upon such a glitch in the text, I even tried to find confirmation for my
 corrections out there in the Internet, only to discover, with my utter amazement and despair,
-that in almost no cases was there already, somewhere, written proof that someone had noticed
+that only in very few cases was there already, somewhere, written proof that someone had noticed
 the inconsistency and left notice of the correction for the future travellers of the same routes.
 
 So I decided to collect here, in this documentation, [all the corrections](fixes.md) I would make, in pencil, on a
