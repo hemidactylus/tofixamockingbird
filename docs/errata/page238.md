@@ -3,11 +3,11 @@
 <img src="/pictures/correction_green.svg" width="32px"/>
 __Location:__ Chapter 25, solution to Problem 2
 
-## Solution given:
+## Solution given
 
 $\Delta = W(DC\circledast\delta)$
 
-## Additional solution:
+## Additional solution
 
 $\Delta '=S\circledast\delta$
 

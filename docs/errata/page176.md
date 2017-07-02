@@ -6,9 +6,9 @@ in the numbered list after "_We can arrange our work as follows_:".
 
 _Warning_: two wrong expressions and a whole line of text replaced by a copy of another line.
 
-## Numbered point 3:
+## Numbered point 3
 
-### It is:
+### It is
 
 3\. Therefore $S(SI)K$ is an $x$-eliminate of $SI(Kx)$.
 
@@ -16,9 +16,9 @@ _Warning_: two wrong expressions and a whole line of text replaced by a copy of 
 
 3\. Therefore $S(K(SI))K$ is an $x$-eliminate of $SI(Kx)$.
 
-## Numbered point 5:
+## Numbered point 5
 
-### It is:
+### It is
 
 5\. Hence, according to steps 4 and 3 and Principle 4,
 $S(S(KS)(S(SI)K))I$ is an $x$-eliminate of
@@ -30,9 +30,9 @@ $S(SI(Kx))x$ and is a
 $S(KS)(S(K(SI))K)$ is an $x$-eliminate of
 $S(SI(Kx))$.
 
-## Numbered point 7:
+## Numbered point 7
 
-### It is:
+### It is
 
 7\. Therefore, according to steps 5 and 6 and Principle 4,
 $S(S(KS)(S(SI)K))I$ is an $x$-eliminate of

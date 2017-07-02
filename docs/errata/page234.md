@@ -3,12 +3,12 @@
 <img src="/pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Chapter 25, Problem 2 (last paragraph)
 
-## It is:
+## It is
 
 We now need a bird $\Delta$ called a _normalizer_ such that
 for every number $n$, $\Delta\,n = \overline{n \star n^\#}$.
 
-## It should become:
+## It should become
 
 We now need a bird $\Delta$ called a _normalizer_ such that
 for every number $n$, $\Delta\,\overline{n} = \overline{n \star n^\#}$.

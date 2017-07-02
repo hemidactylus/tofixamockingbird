@@ -3,7 +3,7 @@
 <img src="/pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Explanation of "The Secret", after Problem 4
 
-## It is (top of the page, lines 5-7):
+## It is (top of the page, lines 5-7)
 
 ... Therefore $S(K(SI))$ is a thrush. The reader can check this
 by computing $S(K(SI))xy$; he will end up with yx.

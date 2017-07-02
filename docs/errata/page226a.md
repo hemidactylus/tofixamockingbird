@@ -5,13 +5,13 @@ __Location:__ Chapter 24, solutions to Problems 6 and 7
 
 ## Problem 6
 
-### It is (formula given in the solution):
+### It is (formula given in the solution)
 
 ... such that for every $n$ and $m$,
 $A\overline{n}\,\overline{m}=(Z\,\overline{m})\overline{0}((\oplus)(A(\overline{n}(P\,\overline{m}))\overline{n}))$.
 Again, such a bird $A$ can be ...
 
-### It should become:
+### It should become
 
 ... such that for every $n$ and $m$,
 $A\overline{n}\,\overline{m}=Z\,\overline{m}\overline{0}(\oplus(A\overline{n}(P\,\overline{m}))\overline{n})$.
@@ -19,7 +19,7 @@ Again, such a bird $A$ can be ...
 
 ## Problem 7
 
-### It is (two expressions to correct):
+### It is (two expressions to correct)
 
 _Note_: the exponentiating bird is represented in the following with the symbol $\varepsilon$.
 
@@ -29,7 +29,7 @@ Equivalently we want a bird $\varepsilon$ such that for all $n$ and $m$,
 $\varepsilon\,\overline{n}\,\overline{m}=Z\,\overline{m}\overline{1}(\otimes(\varepsilon\,\overline{n}\,\overline{m})\overline{n})$.
 Again, such a bird $\varepsilon$ can be ...
 
-### It should become:
+### It should become
 
 ... for any positive number $m$,
 $\varepsilon\,\overline{n}\,\overline{m}=\otimes(\varepsilon\,\overline{n}(P\,\overline{m}))\overline{n}$.

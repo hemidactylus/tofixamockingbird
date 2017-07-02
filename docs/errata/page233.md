@@ -3,7 +3,7 @@
 <img src="/pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Chapter 25, last lines of Introduction before Problem 1
 
-## It is:
+## It is
 
 ... For example, suppose $X$ is the expression $S$ and $Y$ is the expression $K$.
 The G&ouml;del number of $X$ is $31$ and the G&ouml;del number of $Y$ is $24$.
@@ -11,7 +11,7 @@ The expression $XY$ is $(SK)$ and its G&ouml;del number is $3124$, which
 is $31 \star 24$. Now you can see the significance of the numerical
 operation of concatenation to the base $10$.
 
-## It should become:
+## It should become
 
 ... For example, suppose $X$ is the expression $S$ and $Y$ is the expression $K$.
 The G&ouml;del number of $X$ is $1$ and the G&ouml;del number of $Y$ is $2$.

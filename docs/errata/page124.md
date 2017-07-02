@@ -3,7 +3,7 @@
 <img src="/pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Chapter 12, Exercise 5(a) at end of chapter
 
-## It is (requirement on the bird):
+## It is (requirement on the bird)
 
 $$
     \Gamma xyzwv = y(zw)(xywv)

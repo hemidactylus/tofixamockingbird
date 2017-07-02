@@ -3,7 +3,7 @@
 <img src="/pictures/correction_black.svg" width="32px"/>
 __Location:__ Chapter 22, additional questions before "Kestrels and infinity"
 
-## Open Questions (paragraph after Problem 17):
+## Open Questions (paragraph after Problem 17)
 
 Is there a way to tackle the problem of (non-) egocentricity of the Sage
 bird and the Mockingbird? What can be said, and how, about the questions of whether

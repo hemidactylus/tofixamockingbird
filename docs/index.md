@@ -5,7 +5,7 @@
 After reading Smullyan's deep, delightful book
     [__To Mock a Mockingbird__](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird)
 and going through
-all of the exercises therein, I realised I had collected quite a list of spotted typos, errors,
+all of the exercises therein, I realised I had spotted quite a list of typos, errors,
 notational inconsistencies, and so on.
 
 A few times, stumbling upon such a glitch in the text, I even tried to find confirmation for my
