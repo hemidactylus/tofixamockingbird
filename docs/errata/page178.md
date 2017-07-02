@@ -49,7 +49,7 @@ the Principles illustrated earlier in the chapter.
 
 ## Actual code
 
-The following runs with Python 3 (probably the only fussy parts are some `print` statement,
+The following runs with Python 3 (as for Python 2, probably the only fussy parts are some `print` statement,
 however) and should be run in a console: `python3 combinatorSolver.py`. It will interactively ask
 for the expression to solve and output the corresponding solution.
 
@@ -132,7 +132,6 @@ def parseFromList(inStr,charList):
     else:
         return None,inStr
 
-
 def parseBracket(inStr,mode):
     '''
         A parser for "(expression)" type of structures.
@@ -145,7 +144,6 @@ def parseBracket(inStr,mode):
             return None,inStr
     else:
         return None,inStr
-
 
 def parseFactor(inStr,mode):
     '''

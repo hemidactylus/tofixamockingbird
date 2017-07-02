@@ -46,7 +46,10 @@ $$
     A = C(BBS)(CI)\;,
 $$
 
-as can be verified by explicit computation:
+as can be verified by feeding the equation $Axyz=xz(zy)$
+to the [combinator-finder program](page178.md#actual-code)
+(with the `BCSI` command-line option)
+as well as by explicit computation:
 
 $$
 \begin{align} 
