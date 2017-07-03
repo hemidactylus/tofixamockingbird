@@ -1,4 +1,4 @@
-## To Fix a Mockingbird
+## [To Fix a Mockingbird](https://www.salamandrina.net)
 
 After reading Smullyan's deep, delightful book
     [__To Mock a Mockingbird__](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird)
@@ -7,4 +7,4 @@ all of the exercises therein, I realised I had spotted quite a list of typos, er
 notational inconsistencies, and so on.
 
 This is the list of my findings, available to be compiled with [mkdocs](https://mkdocs.org)
-or directly available for browsing (here)[https://www.salamandrina.net/].
+or directly available for browsing [here](https://www.salamandrina.net/).
