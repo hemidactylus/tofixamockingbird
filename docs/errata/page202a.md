@@ -1,9 +1,9 @@
 # Page 202
 
 <img src="/pictures/correction_blue.svg" width="32px"/>
-__Location:__ Chapter 22, additional questions before "Kestrels and infinity"
+__Location:__ Chapter 22, additional questions after Problem 17 and before "Kestrels and infinity"
 
-## Questions (paragraph after Problem 17)
+## Questions
 
 ### Nonegocentricity
 
@@ -348,4 +348,132 @@ related [open problems](page202b.md) for less obvious cases._
 
 ### Inequality
 
-TO DO
+For each pair $(\beta_1,\beta_2)$ of birds, the fact that they
+are distinct will be proven according
+to the following procedure:
+
+- assumption of identity $\beta_1=\beta_2$;
+- application of their identity to three generic birds: $\beta_1 xyz=\beta_2 xyz$;
+- assignment of particular values $\in \{K,I\}$ to the birds $x,y,z$;
+- a paradox, i.e. a contradiction of some of the results found throughout the Chapter, will be found,
+    which invalidates the original identity assumption.
+
+The action of the birds considered on the birds $xyz$ is the following:
+
+$$
+    \begin{align}
+        Bxyz = & \; x(yz) \;, \\
+        Cxyz = & \; xzy \;, \\
+        Wxyz = & \; xyyz\;, \\
+        Sxyz = & \; xz(yz)\;, \\
+        Rxyz = & \; yzx\;, \\
+        Txyz = & \; yxz\;. \\
+    \end{align}
+$$
+
+#### Cardinal & Bluebird
+
+If $Cxyz=Bxyz$, then $xzy=x(yz)$; hence, with $x=y=I$ and $z=K$, one has:
+
+$$
+    IKI=I(IK) \to KI=K\;,
+$$
+
+contradicting Problem 6.
+
+_Note_: other choices are also possible for
+most of these proofs. In this case, for instance,
+the assignment $x=z=K$ and $y=I$ would lead to
+$KKI=K(IK) \to K=KK$, against a contradiction of Problem 6.
+
+#### Warbler and Bluebird
+
+$$
+    Wxyz=Bxyz \to xyyz=x(yz)\;.
+$$
+
+Taking $x=I, y=z=K$:
+
+$$
+    IKKK=I(KK) \to K=KK\;,
+$$
+
+against Problem 6.
+
+#### Starling and Bluebird
+
+$$
+    Sxyz=Bxyz \stackrel{x=z=K, y=I}{\longrightarrow} KK(IK)=K(IK) \to K=KK\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Robin and Bluebird
+
+$$
+    Rxyz=Bxyz \stackrel{x=I, y=z=K}{\longrightarrow} KKI=I(KK) \to K=KK\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Thrush and Bluebird
+
+$$
+    Txyz=Bxyz \stackrel{x=y=z=K}{\longrightarrow} KKK=K(KK) \to K_1=K_3\;\nLeftrightarrow\mbox{Prob. 19}
+$$
+
+#### Warbler and Cardinal
+
+$$
+    Wxyz=Cxyz \stackrel{x=y=z=K}{\longrightarrow} KKKK=KKK \to K=KK\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Starling and Cardinal
+
+$$
+    Sxyz=Cxyz \stackrel{x=z=I, y=K}{\longrightarrow} II(KI)=IIK \to KI=K\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Robin and Cardinal
+
+$$
+    Rxyz=Cxyz \stackrel{x=z=K, y=K}{\longrightarrow} IKK=KKI \to KK=K\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Thrush and Cardinal
+
+$$
+    Txyz=Cxyz \stackrel{x=y=I, z=K}{\longrightarrow} IIK=IKI \to K=KI\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Starling and Warbler
+
+$$
+    Sxyz=Wxyz \stackrel{x=y=z=K}{\longrightarrow} KK(KK)=KKKK \to K=KK\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Robin and Warbler
+
+$$
+    Rxyz=Wxyz \stackrel{x=y=I, z=K}{\longrightarrow} IKI=IIIK \to KI=K\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Thrush and Warbler
+
+$$
+    Txyz=Wxyz \stackrel{x=z=K, y=I}{\longrightarrow} IKK=KIIK \to KK=K\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Robin and Starling
+
+$$
+    Rxyz=Sxyz \stackrel{x=K, y=z=I}{\longrightarrow} IIK=KI(II) \to K=I\;\nLeftrightarrow\mbox{Prob. 2}
+$$
+
+#### Thrush and Starling
+
+$$
+    Txyz=Sxyz \stackrel{x=K, y=z=I}{\longrightarrow} IKI=KI(II) \to KI=I\;\nLeftrightarrow\mbox{Prob. 6}
+$$
+
+#### Thrush and Robin
+
+$$
+    Txyz=Rxyz \stackrel{x=y=I, z=K}{\longrightarrow} IIK=IKI \to K=KI\;\nLeftrightarrow\mbox{Prob. 6}
+$$

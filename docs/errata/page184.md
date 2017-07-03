@@ -3,7 +3,9 @@
 <img src="/pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Chapter 19, solution to Problem 5
 
-## It is (first and last expressions in the solution)
+## It is
+
+_The first and last expressions in the solution read:_
 
 We can take $C^*$ to be $Q_1C$, because ...
 

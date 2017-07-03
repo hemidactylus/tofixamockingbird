@@ -1,9 +1,9 @@
 # Page 67
 
 <img src="/pictures/correction_red.svg" width="32px"/>
-__Location:__ Chapter 8, solution to Problem 2
+__Location:__ Chapter 8, solution to Problem 2. In particular, the seventh paragraph on the page, lines 5-7.
 
-## It is (seventh paragraph on the page, lines 5-7)
+## It is
 
 ```text 
     ... or he could be a knight who truthfully
