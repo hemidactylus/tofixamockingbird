@@ -31,7 +31,7 @@ $$
         \beta_1\neq\beta_2 \Rightarrow \beta_1 xyz \neq \beta_2 xyz\;.
 $$
 
-(In an extensional, or _sparse_ forest, this amounts to the statement
+(In an extensional, or _sparse_, forest, this amounts to the statement
 that the six birds in the above set are all different).
 
 ## Answers
@@ -40,7 +40,7 @@ that the six birds in the above set are all different).
 
 For each bird $\beta$, the nonegocentricity is proven by first assuming that $\beta\beta=\beta$,
 and then by deriving from the assumption some contradiction involving Kestrels and Identity birds
-such as $K=KK$, $K=I$. To get to the contradiction, the assumption is applied to three (or more)
+such as $K=KK$, $K=I$. To get to the contradiction, the assumption is applied to two, three or more
 variables and then values $\in \{K,I\}$ are assigned to some of them.
 
 #### Dove
@@ -169,26 +169,183 @@ i.e. a contradiction of Problem 2.
 
 #### Owl
 
-page 82 of my notes!
+It is $Oxy=y(xy)$. The assumption $OO=O$ implies:
 
-#### Quixotic bird (Q1)
+$$
+    \begin{align}
+    OOxy=Oxy \to & x(Ox)y=y(xy) \stackrel{x=y=K}{\longrightarrow}
+        K(OK)K=K(KK) \to OKz=K(KK)z \to \\
+    \stackrel{z=I}{\longrightarrow} &
+            I(KI)=KK \to K=I\;,
+    \end{align}
+$$
 
-#### Quizzical bird (Q2)
+(where the left cancellation law for Kestrels has been used)
+which goes against Problem 2.
 
-#### Quirky bird (Q3)
+#### Quixotic bird
 
-#### Quacky bird (Q4)
+Since $Q_1xyz=x(zy)$, from $Q_1Q_1=Q_1$ one gets:
+
+$$
+    Q_1xyz=Q_1Q_1xyz \to x(zy)w=Q_1(yx)zw \to x(zy)w=yx(wz)\;,
+$$
+
+i.e., setting $x=y=z=K$,
+
+$$
+    K(KK)w=KK(wK) \to KK=K\;,
+$$
+
+thereby contradicting Problem 6.
+
+#### Quizzical bird
+
+It is $Q_2xyz=y(zx)$, hence from $Q_2Q_2=Q_2$ one finds:
+
+$$
+    Q_2Q_2xyz=Q_2xyz \to x(yQ_2)z=y(zx)\;,
+$$
+
+which choosing $x=K$ and $y=z=I$ becomes
+
+$$
+    K(IQ_2)I=I(IK) \to Q_2=K\;.
+$$
+
+Applying the last identity to $a,b,c$ and then specialising to $a=c=I, b=K$ one finds:
+
+$$
+    Q_2abc=Kabc \to b(ca)=ac \to K(II)=II \to KI=I\;,
+$$
+
+a contradiction of Problem 1.
+
+#### Quirky bird
+
+Since $Q_3xyz=z(xy)$, in case of egocentricity one would have
+
+$$
+    Q_3Q_3xyz=Q_3xyz \to y(Q_3x)z=z(xy)\;,
+$$
+
+i.e., when $x=I$ and $y=z=K$,
+
+$$
+    K(Q_3I)K=K(IK) \to Q_3Iab=KKab \to ba=Kb\;;
+$$
+
+finally, the choice $a=b=I$ leads to $I=KI$, again contradicting Problem 1.
+
+#### Quacky bird
+
+From the definition $Q_4xyz=z(yx)$, $Q_4Q_4=Q_4$ implies
+
+$$
+    \begin{align}
+    Q_4Q_4xyz=Q_4xyz \to & y(xQ_4)z=z(yx) \stackrel{y=K}{\longrightarrow}
+        K(xQ_4)z=z(Kx) \stackrel{x=I}{\longrightarrow} Q_4=z(KI) \\
+    \stackrel{z=K}{\longrightarrow} & Q_4abc=K(KI)abc \to
+        c(ba)=KIbc \;,
+    \end{align}
+$$
+
+which choosing $a=b=I, c=K$ yields the statement $K=KI$, incompatible
+with Problem 6.
 
 #### Converse warbler
 
+From $W'xyz=yxx$, the assumption $W'W'=W'$ leads to
+
+$$
+    \begin{align}
+    W'W'xyz=W'xyz \to & xW'W'y=yxx \stackrel{x=I, y=K}{\longrightarrow}
+        KW'W' = I \\
+    \to & W'ab=Iab \to baa=ab \stackrel{a=I, b=K}{\longrightarrow} I=K\;,
+    \end{align}
+$$
+
+a contradiction of Problem 2.
+
 #### Cardinal once removed
 
-#### Cardinale twice removed
+Since $C^\star xyzw=xywz$, if the bird were egocentric it would be:
+
+$$
+    C^\star C^\star xyzw = C^\star xyzw \to C^\star xzyw=xywz
+        \to xzwy=xywz\;,
+$$
+
+then, choosing $x=y=w=I$ and $z=K$ one gets $IKII=IIIK$, i.e.
+$I=K$, incompatible wiith Problem 2.
+
+#### Cardinal twice removed
+
+It is $C^{\star\star} xyzwv=xyzvw$; assuming egocentricity implies
+
+$$
+    C^{\star\star} C^{\star\star} xyzwv=C^{\star\star} xyzwv
+        \to C^{\star\star} xywzv=xyzvw
+        \to xywvz=xyzvw\;,
+$$
+
+which choosing $x=y=z=v=I$ and $w=K$ yields
+
+$$
+    IIKII=IIIIK \to I=K\;,
+$$
+
+contradicting Problem 2.
 
 #### Warbler once removed
 
+It is $W^\star xyz=xyzz$; now, if $W^\star W^\star =W^\star$ one would have
+
+$$
+    W^\star W^\star xyz=W^\star xyz \to W^\star xyyz=xyzz \to
+        xyyyz=xyzz\;;
+$$
+
+by setting $x=z=I$ and $y=K$ this is seen to lead to
+
+$$
+    IKKKI=IKII \to KI=I\;,
+$$
+
+a contradiction of Problem 1.
+
 #### Warbler twice removed
+
+Since $W^{\star\star} xyzw=xyzww$, egocentricity would imply:
+
+$$
+    W^{\star\star} W^{\star\star} xyzw=W^{\star\star} xyzw \to W^{\star\star} xyzzw=xyzww
+        \to xyzzzw=xyzww\;,
+$$
+
+which choosing $x=y=z=I$ and $w=K$ yields
+
+$$
+    IIIIIK=IIIKK \to K=KK\;,
+$$
+
+a statement at odds with Problem 6.
 
 #### Turing bird
 
+Since $Uxy=y(xxy)$, assuming $UU=U$ would lead to:
+
+$$
+    UUxy=Uxy \to x(UUx)y=y(xxy) \stackrel{x=K}{\longrightarrow}
+        K(UUK)y=y(KKy) \to UUK=yK\;;
+$$
+
+by taking $y=I$ and $y=K$ one gets respectively $UUK=K$ and $UUK=KK$,
+hence $K=KK$ in contradiction with Problem 6.
+
+_Note: similar proofs would hold for other birds, but see the
+related [open problems](page202b.md) for less obvious cases._
+
 ### Inequality
+
+TO DO
