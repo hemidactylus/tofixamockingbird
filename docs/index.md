@@ -94,6 +94,6 @@ Open questions:
 ## Contact
 
 The material you are reading is also publicly available as a
-[github repository](https://github.com/hemidactylus/ubq2).
+[github repository](https://github.com/hemidactylus/tofixamockingbird).
 
 For any communication, I advise you to reach me through my github account.
