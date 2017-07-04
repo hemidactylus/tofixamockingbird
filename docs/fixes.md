@@ -2,7 +2,7 @@
 
  <img src="../pictures/correction_yellow.svg" width="32px"/> [Page 24 (Ch. 3, sol. Prob. 2)](errata/page24.md)
 
- <img src="../pictures/correction_red.svg" width="32px"/> [Page 67 (Ch. 8, sol. Prob. 2)](errata/page67.md) (Still being discussed)
+ <img src="../pictures/correction_yellow.svg" width="32px"/> [Page 67 (Ch. 8, sol. Prob. 2)](errata/page67.md)
 
  <img src="../pictures/correction_yellow.svg" width="32px"/> [Page 104 (Ch. 11, Prob. 34)](errata/page104.md)
 
