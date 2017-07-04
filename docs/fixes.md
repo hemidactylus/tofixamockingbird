@@ -16,7 +16,7 @@
 
  <img src="/pictures/correction_red.svg" width="32px"/> [Page 149 (Ch 14, Ex. 1d)](errata/page149a.md)
 
- <img src="/pictures/correction_blue.svg" width="32px"/> [Page 149 (Ch 14, Ex. 2-3)](errata/page149b.md) OTHER EXERCISES 2 AND 3
+ <img src="/pictures/correction_blue.svg" width="32px"/> [Page 149 (Ch 14, Ex. 1-2-3)](errata/page149b.md)
 
  <img src="/pictures/correction_yellow.svg" width="32px"/> [Page 173 (Ch. 18, "The Secret")](errata/page173.md)
 

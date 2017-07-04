@@ -14,6 +14,7 @@ _[no sentence (d) to prove at all]_
 ## Short explanation
 
 From the first three of Byrd's laws, proposition (d) __does not__ follow.
+(The [rest of the exercise](page149b.md) proceeds without problems, though.)
 
 In the terms of Problem 1 of the Chapter, the particular arrangement
 
