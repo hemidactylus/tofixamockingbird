@@ -1,4 +1,4 @@
-<img src="/pictures/titlepicture.png" alt="To Fix a Mockingbird" style="width: 50%;"/>
+<img src="pictures/titlepicture.png" alt="To Fix a Mockingbird" style="width: 50%;"/>
 
 ## Introduction
 
@@ -32,7 +32,7 @@ erratum list for the book.
 
 ## Reference edition
 
-<img src="/pictures/cover.png" alt="Book Cover" style="width: 50%;"/>
+<img src="pictures/cover.png" alt="Book Cover" style="width: 50%;"/>
 
 For definiteness (although I suspect most of the errata applies to other editions as well),
 the edition I use as reference, including page numbers, is the following:
@@ -68,25 +68,25 @@ cover (the first is the number reported in the barcode):
 
 I divided the entries of the fix list according to the following categories:
 
-* <img src="/pictures/correction_yellow.svg" width="32px"/>
+* <img src="pictures/correction_yellow.svg" width="32px"/>
 Typos: notational inconsistencies, trivial corrections most likely due to typesetting errors
     (but nonetheless, sometimes, able to get in your way while following a proof).
-* <img src="/pictures/correction_red.svg" width="32px"/>
+* <img src="pictures/correction_red.svg" width="32px"/>
 Formula/proof errors:
     those provide a wrong starting point,
     severely compromise the unfolding of the reasoning,
     or give a wrong final result.
-* <img src="/pictures/correction_green.svg" width="32px"/>
+* <img src="pictures/correction_green.svg" width="32px"/>
 Immediate additions:
     alternative solutions (as good as the provided one),
     non-vital remarks or limitations of the provided reasoning,
     further clarification steps.
-* <img src="/pictures/correction_blue.svg" width="32px"/>
+* <img src="pictures/correction_blue.svg" width="32px"/>
 Out-of-one's way bonuses:
     solution to additional exercises given as end-of-chapter training material,
     bonus material (e.g. computer programs) merely hinted at,
     and so on.
-* <img src="/pictures/correction_black.svg" width="32px"/>
+* <img src="pictures/correction_black.svg" width="32px"/>
 Open questions:
     issues sparked by the material encountered in the book
     for which I could not find a definite answer.

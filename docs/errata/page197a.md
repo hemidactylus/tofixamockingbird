@@ -1,6 +1,6 @@
 # Page 197
 
-<img src="/pictures/correction_red.svg" width="32px"/>
+<img src="../../pictures/correction_red.svg" width="32px"/>
 __Location:__ Chapter 21, solution to Problem 2, second paragraph
 
 ## It is (solution, second method)

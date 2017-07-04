@@ -1,6 +1,6 @@
 # Page 149
 
-<img src="/pictures/correction_red.svg" width="32px"/>
+<img src="../../pictures/correction_red.svg" width="32px"/>
 __Location:__ Chapter 14, bonus exercise 1, proposition (d)
 
 ## It is

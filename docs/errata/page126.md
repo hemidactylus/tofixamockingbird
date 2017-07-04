@@ -1,6 +1,6 @@
 # Page 126
 
-<img src="/pictures/correction_green.svg" width="32px"/>
+<img src="../../pictures/correction_green.svg" width="32px"/>
 __Location:__ Chapter 12, solution to Problem 11
 
 ## It is (last sentence)

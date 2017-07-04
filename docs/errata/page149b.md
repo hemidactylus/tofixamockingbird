@@ -1,6 +1,6 @@
 # Page 149
 
-<img src="/pictures/correction_blue.svg" width="32px"/>
+<img src="../../pictures/correction_blue.svg" width="32px"/>
 __Location:__ Chapter 14, bonus exercises 1, 2 and 3
 
 _Note_: part (d) of Exercise 1 cannot in fact be proven and has to be [removed

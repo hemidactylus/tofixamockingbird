@@ -1,6 +1,6 @@
 # Page 240
 
-<img src="/pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Chapter 25, solution to Problem 4
 
 ## It is (lines 3-4 of page)

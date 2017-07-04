@@ -1,6 +1,6 @@
 # Page 67
 
-<img src="/pictures/correction_red.svg" width="32px"/>
+<img src="../../pictures/correction_red.svg" width="32px"/>
 __Location:__ Chapter 8, solution to Problem 2. In particular, the seventh paragraph on the page, lines 5-7.
 
 ## It is
@@ -21,9 +21,6 @@ __Location:__ Chapter 8, solution to Problem 2. In particular, the seventh parag
 
 ## Short explanation
 
-THIS IS TO BE CHECKED
+__This is still undergoing discussion!__
 
-https://www.reddit.com/r/math/comments/2o2jko/i_think_i_found_a_subtle_flaw_in_one_of_raymond/
-
-aaa
-
+[A useful reference](https://www.reddit.com/r/math/comments/2o2jko/i_think_i_found_a_subtle_flaw_in_one_of_raymond/)

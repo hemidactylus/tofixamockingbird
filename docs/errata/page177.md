@@ -1,6 +1,6 @@
 # Page 177
 
-<img src="/pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" width="32px"/>
 __Location:__ Explanation of "The Secret", Queer bird example
 
 ## It is (line 11 from top of the page)
