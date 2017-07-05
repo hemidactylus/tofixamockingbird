@@ -1,6 +1,6 @@
 # Page 173
 
-<img src="../../pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Explanation of "The Secret", after Problem 4
 
 ## It is (top of the page, lines 5-7)

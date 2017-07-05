@@ -1,6 +1,6 @@
 # Page 197
 
-<img src="../../pictures/correction_green.svg" width="32px"/>
+<img src="../../pictures/correction_green.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 21, solution to Problems 3 and 4
 
 _Note_: additional solutions due to bird expressions equivalent to those given in the text.

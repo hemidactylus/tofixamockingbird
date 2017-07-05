@@ -1,6 +1,6 @@
 # Pages 178, 185
 
-<img src="../../pictures/correction_blue.svg" width="32px"/>
+<img src="../../pictures/correction_blue.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 18, very last suggestion in the chapter; and Chapter 19, Appendix
 
 ## Suggestion given in the book

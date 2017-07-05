@@ -1,6 +1,6 @@
 # Page 124
 
-<img src="../../pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 12, Exercise 5(a) at end of chapter
 
 ## It is (requirement on the bird)

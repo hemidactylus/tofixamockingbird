@@ -1,6 +1,6 @@
 # Page 176
 
-<img src="../../pictures/correction_red.svg" width="32px"/>
+<img src="../../pictures/correction_red.svg" style="width: 32px; height: 32px;"/>
 __Location:__ In "The Secret", procedure for writing any expression $X$ in terms of $S, K, I$,
 in the numbered list after "_We can arrange our work as follows_:".
 

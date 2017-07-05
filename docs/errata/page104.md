@@ -1,6 +1,6 @@
 # Page 104
 
-<img src="../../pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 11, formulation of Problem 34; in particular, the definition of the _vireo once removed_.
 
 ## It is

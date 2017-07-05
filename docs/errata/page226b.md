@@ -1,6 +1,6 @@
 # Page 226
 
-<img src="../../pictures/correction_green.svg" width="32px"/>
+<img src="../../pictures/correction_green.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 24, solution to Problem 7
 
 ## The issue

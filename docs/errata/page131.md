@@ -1,6 +1,6 @@
 # Page 131
 
-<img src="../../pictures/correction_yellow.svg" width="32px"/>
+<img src="../../pictures/correction_yellow.svg" style="width: 32px; height: 32px;"/>
 __Location:__ Chapter 13, discussion after Problem 8
 
 ## It is (second paragraph)
