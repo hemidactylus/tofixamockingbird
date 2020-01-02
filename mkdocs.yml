@@ -1,5 +1,5 @@
 site_name: To Fix a Mockingbird
-pages:
+nav:
   - Home: index.md
   - Complete fix list: fixes.md
   - Page 24: errata/page24.md
